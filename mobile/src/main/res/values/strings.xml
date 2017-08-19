@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundoJennita</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="mensaje_boton">Entrar</string>
+</resources>
